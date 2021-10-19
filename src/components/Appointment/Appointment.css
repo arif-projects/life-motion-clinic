@@ -1,0 +1,15 @@
+.work-image{
+    border-radius: 20px;
+}
+.text{
+    padding: 20px;
+}
+.appoinment-image{
+    border-radius: 10px;
+}
+
+.textarea{
+    border: none; 
+    outline: none;
+    border: 1px solid lightgrey;
+}

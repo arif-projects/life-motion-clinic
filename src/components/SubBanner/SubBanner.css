@@ -1,0 +1,45 @@
+.subBanner{
+    margin-bottom: 60px;
+}
+
+.Doctors_Timetable{
+    height: 300px;
+    border: 1px solid lightgrey;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+    transition: 0.5s;
+
+}
+.Doctors_Timetable:hover{
+    background-color: white ;
+    padding-top: 12px;
+}
+.Make_Appointment{
+    height: 300px;
+    color: white;
+    border: 1px solid lightgrey;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #000e44;
+    transition: 0.5s;
+}
+.Make_Appointment:hover{
+    background-color: #0928a1;
+    padding-top: 12px;
+}
+
+.Emergency_Call{
+    height: 300px;
+    border: 1px solid lightgrey;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #00e5cc;
+    color: white ;
+    transition: 0.5s;
+
+}
+.Emergency_Call:hover{
+    background-color:#077064 ;
+    padding-top: 12px;
+}

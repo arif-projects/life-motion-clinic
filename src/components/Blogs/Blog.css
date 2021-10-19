@@ -1,0 +1,27 @@
+.blog-header-title{
+    color: #00e5cc;
+}
+.blog-container{
+    margin-bottom: 60px;
+}
+.blog-header-text{
+    margin-bottom: 20px;
+}
+
+.blog-cart{
+    transition: 0.5s;
+    height: 450px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.blog-cart:hover{
+    box-shadow: 2px 5px 10px grey;
+}
+.topic{
+    color: lightgrey;
+}
+.cart-img{
+    border-radius: 20px;
+}
+

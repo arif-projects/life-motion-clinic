@@ -1,0 +1,28 @@
+.s-input{
+    border: none;
+    outline: none;
+    border-bottom: 1px solid lightgrey;
+}
+
+.subscribe-button{
+    padding: 10px 20px;
+    border: none;
+    outline: none;
+    background-color: red;
+    color: #ffff;
+    font-weight: 800;
+    border-radius: 10px;
+    transition: 0.5s;
+}
+.subscribe-button:hover{
+    background-color: rgb(93, 10, 10);
+}
+
+.subscribe{
+    background-color: seashell;
+    padding: 20px 10px;
+    border-radius: 5px;
+    margin-bottom: 60px;
+    
+}
+

@@ -1,0 +1,28 @@
+.input-field{
+    padding: 10px;
+    width: 50%;
+    border: none;
+    border-bottom: 1px solid gray;
+    outline: none;
+}
+
+.appointment-button{
+   
+        background-color: #f7227a;
+        padding: 10px;
+        width: 50%;
+        border-radius: 5px;
+        color: #ffffff;
+        font-weight: bold;
+        border: none;
+        transition: 0.5s;
+
+}
+
+.appointment-button:hover{
+    background-color: red;
+}
+
+.appoinment-form{
+    margin-bottom: 60px;
+}
